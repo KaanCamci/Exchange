@@ -1,0 +1,21 @@
+@media (max-width:768px){
+
+    #group{
+        display: inline;
+        flex-direction: column;
+        width: 100vw;
+    }
+    #amount{
+        width: 100%;
+    }
+    #inputGroupSelect01{
+        width: 100%;
+    }
+    #inputGroupSelect02{
+        width: 100%;
+    }
+ 
+    #convertButton{
+        margin-top: 40px;
+    }
+}
